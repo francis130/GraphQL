@@ -9,7 +9,7 @@ In this project, i follow the tutorial step by step.
 
 Prerequisites
 
-This course is based on NodeJs and Express. So, if you have a basic understanding of NodeJS, it will be easy to learn GraphQL. For frontend integration of GraphQL, we will be using ReactJs and Jquery. Since, illustrations in this tutorial uses EcmaScript 6 (ES6) syntax, knowledge in these areas can be helpful
+This exercise is based on NodeJs and Express. So, if you have a basic understanding of NodeJS, it will be easy to learn GraphQL. For frontend integration of GraphQL, we will be using ReactJs and Jquery. Since, illustrations in this tutorial uses EcmaScript 6 (ES6) syntax, knowledge in these areas can be helpful
 GraphQL is an open source server-side technology which was developed by Facebook to optimize RESTful API calls. It is an execution engine and a data query language. In this chapter, we discuss about the advantages of using GraphQL.
 
 Why GraphQL
